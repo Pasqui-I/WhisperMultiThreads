@@ -101,6 +101,7 @@ def main() -> None:
     loading_message.join()
 
     print("Trascrizione completata.")
+    print("Amogus")
 
 
 if __name__ == "__main__":
